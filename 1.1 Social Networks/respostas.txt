@@ -1,0 +1,9 @@
+a) Feito. Imagens salvas na pasta.
+
+b) O grupo com maior porcentagem de usuários do Facebook é o de 25 a 34 anos (19%), seguido de 35 a 44 e 45 a 54 anos (17%).
+O grupo com maior porcentagem de usuários do Twitter é o de 25 a 34 anos (22%), seguido de 18 a 24 anos (18%).
+O grupo com maior porcentagem de usuários do Linkedin é o de 25 a 34 e 45 a 54 anos (20%).
+A diferença aparece nos gráficos de acordo com o tamanho das barras verticais. Quanto maior a barra, maior o valor, por isso é mais fácil de visualizar com o gráfico do que lendo os valores na tabela. Ordenar ajuda na visualização, mas ao invés de ordenar por ordem decrescente, é mais interessante usar labels nas barras para indicar o valor exato.
+
+c) Tirando o problema com cores (13 a 17 e acima de 65 estão com a mesma cor, mesmo passando cores alternativas como parâmetro), o gráfico de setores é mais fácil de visualizar. Como o problema em questão é uma porcentagem, faz sentido usá-lo, pois a soma de todos os setores dá 100%, basicamente as porcentagens são pedaços do total.
+O gráfico de setores também possui labels por padrão, o que é bem conveniente.

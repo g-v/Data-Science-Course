@@ -1,0 +1,15 @@
+a) Um gráfico útil deve comparar taxas (porcentagem, por exemplo), ao invés de contagem simples pelo motivo de melhor visualização e linha base de comparação. Para o entendimento humano, 10% é muito mais claro que 17.7 em 177 (total), por exemplo. Ao comparar múltiplos valores, a situação fica ainda mais complicada: 
+ - 10% e 40% vs
+ - 17.7 e 70.8 em 177
+É muito mais simples entender 40% que 70.8 em 177.
+
+b) Pode-se afirmar que não há nenhuma relação entre o uso de marijuana e acidentes no trânsito.
+
+Comparando o uso zero com uso máximo:
+
+nunca: 37/50 = 0.74
+51+: 17/31 = 0.54
+
+No caso acima, a razão é menor para quem usa mais de 51 vezes por ano do que quem nunca usa.
+
+Se excluirmos a hipótese de os dados serem inconsistentes (no caso de uma resposta mentirosa dos participantes da pesquisa), então podemos afirmar que não há relação entre o uso de marijuana e acidentes de trânsito.

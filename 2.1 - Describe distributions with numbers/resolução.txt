@@ -1,0 +1,13 @@
+
+Estabeleça: Foram coletados dados sobre pedaços de floresta e separados em 3 grupos, um trabalho de Charles Cannon e seus colegas da Duke University:
+Grupo 1: nunca sofreram extração
+Grupo 2: foram explorados 1 ano antes
+Grupo 3: foram explorados 8 anos antes
+Todos os pedaços tinham 0,1 hectare de área. Em cada pedaço, foi contado o número de árvores.
+
+Planeje: Use gráficos e resumos numéricos para descrever e comparar o número de árvores de cada Grupo na floresta estudada.
+
+Resolva: Foram usados gráficos de barra para cada grupo (1, 2 e 3). Também foi usado um gráfico de médias de pontos para comparar os 3 grupos.
+
+Conclua: É possível verificar que a floresta tem um número consideravelmente menor de árvores nos grupos 2 e 3 ao comparar ao grupo 1  (nunca desmatado). Entretanto, comparando os grupos 2 e 3, não há grande mudança no número de árvores (em média).
+O cenário ideal seria preservar totalmente uma área para o número de árvores se manter o mais alto possível.
